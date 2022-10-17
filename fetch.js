@@ -1,0 +1,6 @@
+console.log('aaaaaa')
+console.log('bbbbbb')
+console.log('cccccc')
+setTimeout(() => {console.log('dddddd')}, 5000)
+console.log('eeeeee')
+console.log('ffffff')
