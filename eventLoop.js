@@ -1,5 +1,3 @@
-// var foo = $.getSync('//foo.com');
-// console.log(foo);
 function multiply(a, b) { 
     return a * b; 
 }
