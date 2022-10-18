@@ -1,5 +1,3 @@
-
-// setInterval(() => {console.log('valobashi')}, 3000);
 let counter = 0;
 const timeId = setInterval(() => {
         counter++;
